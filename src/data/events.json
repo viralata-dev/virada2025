@@ -435,7 +435,7 @@
           "time": "04h",
           "date": "25.5",
           "artist": "Synthpoptroubadour",
-          "duration": 360,
+          "duration": 90,
           "attending": false
         },
         {
@@ -483,21 +483,21 @@
           "time": "00h",
           "date": "25.5",
           "artist": "Mariwô",
-          "duration": 360,
+          "duration": 300,
           "attending": false
         },
         {
           "time": "06h",
           "date": "25.5",
           "artist": "Cdc Apresenta: Complexcity",
-          "duration": 360,
+          "duration": 300,
           "attending": false
         },
         {
           "time": "12h",
           "date": "25.5",
           "artist": "Baile da Ventura",
-          "duration": 360,
+          "duration": 300,
           "attending": false
         }
       ]
@@ -523,7 +523,7 @@
           "time": "10h30",
           "date": "25.5",
           "artist": "Pedra Branca",
-          "duration": 150,
+          "duration": 90,
           "attending": false
         },
         {
@@ -566,6 +566,116 @@
           "date": "24.5",
           "artist": "Paulinho Moska",
           "duration": 90,
+          "attending": false
+        }
+      ]
+    },
+    {
+      "name": "Palco XV de Novembro",
+      "address": "Praça XV de Novembro, Centro, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Fresh! Dancehall com Yellowman",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "África Mãe do Leão",
+          "duration": 180,
+          "attending": false
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Russo Passapusso com o Ministereo Público",
+          "duration": 180,
+          "attending": false
+        }
+      ]
+    },
+    {
+      "name": "Praça da República",
+      "address": "Praça da República, República, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Hammond Grooves + Jim Seeley",
+          "duration": 120,
+          "attending": false
+        },
+        {
+          "time": "20h",
+          "date": "24.5",
+          "artist": "Rhoda Scott",
+          "duration": 150,
+          "attending": false
+        },
+        {
+          "time": "22h30",
+          "date": "24.5",
+          "artist": "Kid Creole And The Coconuts",
+          "duration": 150,
+          "attending": false
+        },
+        {
+          "time": "01h",
+          "date": "25.5",
+          "artist": "Fred Wesley",
+          "duration": 150,
+          "attending": false
+        },
+        {
+          "time": "03h30",
+          "date": "25.5",
+          "artist": "Soul Vendors & Sound Dimension",
+          "duration": 150,
+          "attending": false
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Brisa Trio + Michael Marning",
+          "duration": 180,
+          "attending": false
+        },
+        {
+          "time": "09h",
+          "date": "25.5",
+          "artist": "James Boogallo Bolden",
+          "duration": 120,
+          "attending": false
+        },
+        {
+          "time": "11h",
+          "date": "25.5",
+          "artist": "Crystal Thomas",
+          "duration": 120,
+          "attending": false
+        },
+        {
+          "time": "13h",
+          "date": "25.5",
+          "artist": "Derico Sciotti",
+          "duration": 120,
+          "attending": false
+        },
+        {
+          "time": "15h",
+          "date": "25.5",
+          "artist": "Tributo ao Skowa Com b Negão,thaide,trio Mocotó, a Máfia e Outros",
+          "duration": 180,
+          "attending": false
+        },
+        {
+          "time": "18h",
+          "date": "25.5",
+          "artist": "Roberto de Carvalho: um Caso Sério com Johnny Hooker, Fernanda Abreu, Gabi Melim, Paulo Miklos e Outros",
+          "duration": 180,
           "attending": false
         }
       ]
