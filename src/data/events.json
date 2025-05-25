@@ -1,0 +1,574 @@
+{
+  "locations": [
+    {
+      "name": "Anhangabaú",
+      "address": "Vale do Anhangabaú, Centro, São Paulo - SP",
+      "events": [
+        {
+          "time": "17h",
+          "date": "24.5",
+          "artist": "Orquestra Helipolis + Simoninha e Luciana Mello",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "19h",
+          "date": "24.5",
+          "artist": "Belo",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "22h",
+          "date": "24.5",
+          "artist": "Silva",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "01h",
+          "date": "25.5",
+          "artist": "Orchestra Baobab (Senegal)",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "03h",
+          "date": "25.5",
+          "artist": "la Delio Valdez (Argentina)",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "05h",
+          "date": "25.5",
+          "artist": "The Skatalites (Jamaica)",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "07h",
+          "date": "25.5",
+          "artist": "Olodum",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "10h",
+          "date": "25.5",
+          "artist": "Marina Lima",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "15h",
+          "date": "25.5",
+          "artist": "Liniker",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "18h",
+          "date": "25.5",
+          "artist": "João Gomes",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Aparelhagem Crocodilo",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "20h30",
+          "date": "24.5",
+          "artist": "Aparelhagem Crocodilo",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "23h30",
+          "date": "24.5",
+          "artist": "Aparelhagem Crocodilo recebe Gang do Eletro",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "2h30",
+          "date": "25.5",
+          "artist": "Aparelhagem Crocodilo recebe Gaby Amarantos",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "10h30",
+          "date": "25.5",
+          "artist": "Aparelhagem Crocodilo recebe Miss Tacacá",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "13h30",
+          "date": "25.5",
+          "artist": "Aparelhagem Crocodilo recebe Jaloo",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "16h30",
+          "date": "25.5",
+          "artist": "Aparelhagem Crocodilo recebe Viviane Batidão",
+          "duration": 60,
+          "attending": false
+        }
+      ]
+    },
+    {
+      "name": "Sé",
+      "address": "Praça da Sé, Centro, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Xangai",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "20h",
+          "date": "24.5",
+          "artist": "Banda Pífanos de Caruaru",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "22h",
+          "date": "24.5",
+          "artist": "Pinduca",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "Mestre Ambrósio",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "03h",
+          "date": "25.5",
+          "artist": "Baile do Papai – Manoel Cordeiro",
+          "duration": 60,
+          "attending": true
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Aguidavi do Jêje",
+          "duration": 240,
+          "attending": false
+        },
+        {
+          "time": "10h",
+          "date": "25.5",
+          "artist": "Paulinho Boca de Cantor convida Davi Moraes",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Canta Inezita: Celia e Celma, Consuelo de Paula, Maria Alcina, Ayrton, Montarroyos",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "14h",
+          "date": "25.5",
+          "artist": "Lia de Itamaraca e Daúde",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "16h",
+          "date": "25.5",
+          "artist": "Virgínia Rodrigues",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "18h",
+          "date": "25.5",
+          "artist": "Elomar",
+          "duration": 90,
+          "attending": false
+        }
+      ]
+    },
+    {
+      "name": "Largo do Arouche",
+      "address": "Largo do Arouche, República, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "artist": "Wanessa",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "20h",
+          "artist": "Thalma de Freitas",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "22h",
+          "date": "24.5",
+          "artist": "Juliana Linhares",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "Melly",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "02h",
+          "date": "25.5",
+          "artist": "Anelis Assumpção",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "04h",
+          "date": "25.5",
+          "artist": "Viviane Batidão",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Duquesa",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "08h",
+          "date": "25.5",
+          "artist": "Kennya Macedo",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "10h",
+          "date": "25.5",
+          "artist": "Kaê Guajajara",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Assucena",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "14h",
+          "date": "25.5",
+          "artist": "Josyara",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "16h",
+          "date": "25.5",
+          "artist": "Priscila Senna",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "18h",
+          "date": "25.5",
+          "artist": "Juçara Marçal",
+          "duration": 90,
+          "attending": true
+        }
+      ]
+    },
+    {
+      "name": "Pista Arouche Flores",
+      "address": "Largo do Arouche, República, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Discopédia",
+          "duration": 240,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "Selvagem",
+          "duration": 240,
+          "attending": false
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Baile da Sodo",
+          "duration": 240,
+          "attending": false
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Ocupação Fervo",
+          "duration": 240,
+          "attending": true
+        }
+      ]
+    },
+    {
+      "name": "Pista República",
+      "address": "Praça da República, República, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Mamba Negra",
+          "duration": 240,
+          "attending": true
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "¡súbete!",
+          "duration": 240,
+          "attending": true
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Capslock",
+          "duration": 240,
+          "attending": true
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Badsista And Friends",
+          "duration": 240,
+          "attending": true
+        }
+      ]
+    },
+    {
+      "name": "Pista Aurora",
+      "address": "Rua Aurora, República, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Submundo 808",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "Tijolo",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Batekoo",
+          "duration": 360,
+          "attending": true
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Pratododia All Stars",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "20h",
+          "date": "24.5",
+          "artist": "Rhr",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "22h",
+          "date": "24.5",
+          "artist": "Osgêmeos",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "Indus (Colômbia)",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "02h",
+          "date": "25.5",
+          "artist": "Vermelho",
+          "duration": 90,
+          "attending": true
+        },
+        {
+          "time": "04h",
+          "date": "25.5",
+          "artist": "Synthpoptroubadour",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "10h",
+          "date": "25.5",
+          "artist": "Banda do Metrô",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Yannick Delass",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "14h",
+          "date": "25.5",
+          "artist": "Fin Del Mundo (Argentina)",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "16h",
+          "date": "25.5",
+          "artist": "Joabe Reis",
+          "duration": 90,
+          "attending": false
+        }
+      ]
+    },
+    {
+      "name": "Pista Largo do Café",
+      "address": "Largo do Café, Centro, São Paulo - SP",
+      "events": [
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Novo Affair",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "00h",
+          "date": "25.5",
+          "artist": "Mariwô",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "06h",
+          "date": "25.5",
+          "artist": "Cdc Apresenta: Complexcity",
+          "duration": 360,
+          "attending": false
+        },
+        {
+          "time": "12h",
+          "date": "25.5",
+          "artist": "Baile da Ventura",
+          "duration": 360,
+          "attending": false
+        }
+      ]
+    },
+    {
+      "name": "Largo Misericórodia",
+      "address": "Largo da Misericórdia, Centro, São Paulo - SP",
+      "events": [
+        {
+          "time": "17h",
+          "date": "25.5",
+          "artist": "Som na Rural e Cátia de França",
+          "duration": 90,
+          "attending": true
+        }
+      ]
+    },
+    {
+      "name": "Vila Itororó",
+      "address": "Rua Maestro Cardim, Rua Sem Saída, N° 60, Bela Vista, São Paulo - SP",
+      "events": [
+        {
+          "time": "10h30",
+          "date": "25.5",
+          "artist": "Pedra Branca",
+          "duration": 150,
+          "attending": false
+        },
+        {
+          "time": "13h",
+          "date": "25.5",
+          "artist": "Manu Maltez",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "15h",
+          "date": "25.5",
+          "artist": "João Suplicy",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "16h",
+          "date": "24.5",
+          "artist": "Malabarismo Possível",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "17h",
+          "date": "24.5",
+          "artist": "Rincon Sapiência",
+          "duration": 60,
+          "attending": false
+        },
+        {
+          "time": "18h",
+          "date": "24.5",
+          "artist": "Ana Rafaela",
+          "duration": 90,
+          "attending": false
+        },
+        {
+          "time": "20h",
+          "date": "24.5",
+          "artist": "Paulinho Moska",
+          "duration": 90,
+          "attending": false
+        }
+      ]
+    }
+  ]
+}
